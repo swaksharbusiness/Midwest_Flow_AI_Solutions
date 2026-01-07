@@ -1,0 +1,67 @@
+You are a senior frontend engineer and UX designer.
+
+Build a fully functional, mobile-first, single-page professional portfolio website using React and Tailwind CSS.
+
+CONSTRAINTS:
+- Mobile-first design (phones first, desktop second)
+- Single-column layout on mobile
+- Fully static
+- No backend
+- No external UI libraries
+- No placeholders or lorem ipsum
+- Clean, professional, credible tone
+- Optimized for fast load and readability
+- Accessible semantic HTML
+
+SECTIONS (IN ORDER):
+
+1. Hero
+- Clear value proposition for a technology consultant
+- Short headline (1–2 lines)
+- Supporting sentence
+- Primary CTA button labeled “Contact Me”
+
+2. Services
+- 4 cards
+- Titles and one-sentence descriptions
+- Focus:
+  - AI-assisted websites
+  - Business automation
+  - Process optimization
+  - Practical tech solutions for small businesses
+
+3. Who I Help
+- Bullet list of industries:
+  - Auto & motorcycle garages
+  - Construction & HVAC contractors
+  - Local retail & bakeries
+  - Solo operators and SMBs
+- Emphasis on Midwest businesses
+
+4. Sample Work
+- 3 conceptual demo projects
+- Each includes:
+  - Problem
+  - Solution
+  - Outcome
+- Clearly labeled as demos
+
+5. Contact
+- Email placeholder
+- LinkedIn placeholder
+- Simple call to action
+
+DESIGN RULES:
+- Use Tailwind mobile-first utilities
+- Use md: and lg: only when needed
+- Buttons must be thumb-friendly
+- Neutral color palette with subtle accent
+- No hover-only interactions
+
+TECHNICAL:
+- All code in App.jsx
+- Export default App
+- No comments in final output
+- No inline styles
+
+Deliver ONLY the final App.jsx code.
