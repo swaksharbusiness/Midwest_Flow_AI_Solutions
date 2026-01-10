@@ -82,7 +82,7 @@ const App = () => {
               I build systems that make small businesses <span className="text-indigo-600">run like giants.</span>
             </h1>
             <p className="text-lg md:text-xl text-slate-600 leading-relaxed mb-10 max-w-2xl">
-              Specializing in AI automation and digital workflows for Midwest contractors, retailers, and service providers. No jargon—just ROI.
+              Specializing in improving process and workflows, powered by AI for Midwest contractors, retailers, and service providers. No jargon—just ROI.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a href="#contact" className="inline-flex items-center justify-center px-8 py-4 bg-indigo-600 text-white rounded-xl text-lg font-bold shadow-lg shadow-indigo-200 transition-all active:scale-95">
@@ -133,7 +133,8 @@ const App = () => {
               <ul className="space-y-4">
                 {[
                   "Auto & Motorcycle Garages",
-                  "Construction & HVAC Contractors",
+                  "Small and Construction Companies",
+				  "Contractors",
                   "Local Retail & Bakeries",
                   "Solo Operators and SMBs"
                 ].map((item, i) => (
