@@ -64,7 +64,7 @@ const App = () => {
     <div className="min-h-screen bg-[#F8FAFC] text-slate-900 font-sans selection:bg-indigo-100">
       <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-200">
         <div className="max-w-screen-xl mx-auto px-5 h-16 flex items-center justify-between">
-          <span className="font-bold text-lg tracking-tight text-slate-900">TECHCONSULT<span className="text-indigo-600">.</span></span>
+          <span className="font-bold text-lg tracking-tight text-slate-900">MIDWEST FLOW AI<span className="text-indigo-600">.</span></span>
           <a href="#contact" className="bg-slate-900 text-white px-5 py-2 rounded-full text-sm font-semibold transition-transform active:scale-95">
             Get Started
           </a>
@@ -226,9 +226,9 @@ const App = () => {
 
       <footer className="py-12 bg-white border-t border-slate-200">
         <div className="max-w-screen-xl mx-auto px-5 flex flex-col md:flex-row justify-between items-center gap-6">
-          <div className="font-bold text-lg tracking-tight">TECHCONSULT<span className="text-indigo-600">.</span></div>
+          <div className="font-bold text-lg tracking-tight">MIDWEST FLOW AI<span className="text-indigo-600">.</span></div>
           <p className="text-slate-500 text-sm">
-            © {new Date().getFullYear()} Independent Technology Consultant. Serving the Midwest.
+            © {new Date().getFullYear()} Serving the Heartland.
           </p>
         </div>
       </footer>
